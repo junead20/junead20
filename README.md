@@ -58,14 +58,14 @@ clean architecture and maintainable code.
 
 ## 🚀 Featured Projects
 
-### 📌 Local Community Event Portal
-Responsive HTML5 and CSS3 project with forms, media and responsive design.
+### 📌 ShopNest (Amazon Clone)
+A responsive e-commerce website inspired by Amazon with product listings, shopping features, and modern UI design.
 
-### 📌 SQL Practice Repository
-LeetCode SQL solutions and notes.
+### 📌 EzTap
+A smart web application focused on providing a fast, simple, and user-friendly digital experience.
 
-### 📌 Java Mini Projects
-Object-Oriented Java applications.
+### 📌 EduBot
+An AI-powered educational assistant that helps students access information and improve learning efficiency.
 
 ---
 
