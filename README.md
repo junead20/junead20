@@ -1,38 +1,35 @@
-<h1 align="center">Hi 👋, I'm JUNEAD</h1>
-
-<h3 align="center">
-Java Developer • Web Developer • Problem Solver
-</h3>
+<h1 align="center">
+  JUNEAD
+</h1>
 
 <p align="center">
-Learning, Building and Growing Every Day 🚀
+  Software Developer • Java Developer • Web Developer
+</p>
+
+<p align="center">
+  Building scalable applications and solving real-world problems.
 </p>
 
 ---
 
-## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Web Development
-- 🌱 Currently Learning Java, SQL and DSA
-- 🚀 Building Real Projects
-- ⚡ Open to Learning New Technologies
+## About
+
+Computer Science student focused on software engineering,
+web development and problem solving.
+
+Currently exploring Java, SQL, Data Structures and
+modern web technologies.
+
+Interested in building reliable applications with
+clean architecture and maintainable code.
 
 ---
 
 ## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+</p>
 
 ---
 
@@ -82,4 +79,4 @@ Object-Oriented Java applications.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/junead20
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/junead-baba-a21306353/)
+- LinkedIn: https://www.linkedin.com/in/junead-baba-a21306353/
