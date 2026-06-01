@@ -79,3 +79,4 @@ Object-Oriented Java applications.
 
 - GitHub: https://github.com/junead20
 - LinkedIn: https://www.linkedin.com/in/junead-baba-a21306353/
+- Email: juneadbaba61@gmail.com
