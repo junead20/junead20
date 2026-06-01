@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=JUNEAD&fontSize=60&fontColor=ffffff" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+Developer;Web+Developer;Problem+Solver" />
+</p>
 <h1 align="center">
   JUNEAD
 </h1>
@@ -35,24 +41,19 @@ clean architecture and maintainable code.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Analytics
+
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=junead20&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=junead20&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=junead20&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junead20&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=junead20&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=junead20&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
